@@ -34,7 +34,7 @@
 import { createClient } from "contentful";
 
 const client = createClient({
-  ///
+  ///README.md
 });
 
 export default {
